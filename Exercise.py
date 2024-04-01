@@ -46,7 +46,7 @@ def main():
         exercise_intensity = 'Moderate'
     else:
         exercise_intensity = 'High'
-    
+        
     st.write(f'Exercise Intensity: {exercise_intensity}')
     
     # Suggest exercises based on exercise intensity
