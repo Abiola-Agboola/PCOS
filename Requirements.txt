@@ -10,8 +10,6 @@ glfw; sys_platform != 'win32'
 numpy
 vispy
 p5
-websockets
-glfw; sys_platform != 'win32'
 sybil
 libx11
 libXext-devel
