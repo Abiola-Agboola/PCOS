@@ -1,1 +1,21 @@
-
+pytest
+pytest-cov
+flask==1.1.1
+fastapi
+uvicorn[standard]
+xlwings
+y_py
+websockets
+glfw; sys_platform != 'win32'
+numpy
+vispy
+p5
+websockets
+glfw; sys_platform != 'win32'
+sybil
+libx11
+libXext-devel
+libXrender-devel	
+libSM-devel	
+libX11-devel
+mesa-libGL
